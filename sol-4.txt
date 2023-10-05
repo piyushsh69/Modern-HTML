@@ -1,0 +1,7 @@
+1. Use Semantic HTML Elements: Semantic HTML elements like <header>, <nav>, <main>, <article>, <section>, and <footer> provide a clear structure for web content. Use them appropriately to convey the document's hierarchy and meaning to assistive technologies and users. Semantic elements make it easier for screen readers and other assistive devices to interpret and present content.
+
+2. Provide Descriptive Alternative Text (Alt Text): Always include descriptive alt text for images using the alt attribute in the <img> element. Alt text should convey the content and purpose of the image. For decorative images, use empty alt text (alt="") to indicate that the image is purely decorative and should be ignored by screen readers.
+
+3. Ensure Keyboard Accessibility: Make sure that all interactive elements, such as links, buttons, and form fields, are accessible via keyboard navigation. Test your website using only the keyboard to ensure that users who rely on keyboards or alternative input devices can access and interact with all content and features. Additionally, use the tabindex attribute judiciously to control the tab order of elements on the page.
+
+These three practices are fundamental to improving the accessibility of HTML content and making websites more inclusive for all users, including those with disabilities
